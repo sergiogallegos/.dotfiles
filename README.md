@@ -1,4 +1,4 @@
 # .dotfiles
 My Config
 
-Im using a MacBookPro 15-inch, 2017
+I'm using a MacBookPro 15-inch, 2017
