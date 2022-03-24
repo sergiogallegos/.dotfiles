@@ -7,3 +7,6 @@
 [submodule ".config/nvim/vim-config"]
 	path = .config/nvim/vim-config
 	url = https://github.com/rafi/vim-config.git
+[submodule "tpm"]
+	path = tpm
+	url = https://github.com/tmux-plugins/tpm.git
