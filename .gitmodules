@@ -1,3 +1,9 @@
 [submodule "vim-config"]
 	path = vim-config
 	url = https://github.com/rafi/vim-config.git
+[submodule ".config/vim-config"]
+	path = .config/vim-config
+	url = https://github.com/rafi/vim-config.git
+[submodule ".config/nvim/vim-config"]
+	path = .config/nvim/vim-config
+	url = https://github.com/rafi/vim-config.git
