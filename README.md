@@ -10,3 +10,6 @@ Steps:
 
 
 working on this repo... 
+
+# Terminal
+! [terminal] (/images/pic1.png)
