@@ -12,4 +12,4 @@ Steps:
 working on this repo... 
 
 # Terminal
-! [.dotfiles] (/images/pic1.png)
+![.dotfiles](/images/pic1.png)
