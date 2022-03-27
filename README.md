@@ -1,12 +1,12 @@
 # dotfiles
 My Config
 
-I'm using a MacBookPro 15-inch, 2017
+1.I'm using a MacBookPro 15-inch, 2017
 
 Steps:
 1.Install iTerm2 / Alacritty
-2.Install Brew / Packages
-3."" 
+1.Install Brew / Packages
+1."" 
 
 
 working on this repo... 
