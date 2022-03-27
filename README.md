@@ -12,8 +12,12 @@ Steps:
 
 " working on this repo... 
 
-# iterm2
+# iterm2 with dracula + tmux
 ![.dotfiles](/images/pic1.png)
 
-# Alacritty
+# Alacritty with gruvbox + tmux
 ![.dotfiles](/images/pic2.png)
+![.dotfiles](/images/pic3.png)
+![.dotfiles](/images/pic4.png)
+
+
