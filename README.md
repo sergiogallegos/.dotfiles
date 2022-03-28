@@ -1,11 +1,12 @@
 # dotfiles
 My Config
 
-1. using a MacBookPro 15-inch, 2017, personal and hobbie laptop.
+1. Using a MacBookPro 15-inch, 2017, personal and hobbie laptop.
 1. Running Ubuntu on Paralles as well to play with Linux.
 1. Windows10 Thinkpad for windows develop on my work.
 1. Running vm in the Thinkpad like manjaro to play with Linux.
 1. looking for a System76 laptop to play with.
+1. Running Ubuntu 20 lts on my thinkpad, dual boot windows10. 
 1. Keyboard: Advantage2; nice Keyboard.
 
 Steps:
