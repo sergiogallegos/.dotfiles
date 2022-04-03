@@ -16,3 +16,6 @@
 [submodule "zsh/ohmyzsh"]
 	path = zsh/ohmyzsh
 	url = https://github.com/ohmyzsh/ohmyzsh.git
+[submodule "dot"]
+	path = dot
+	url = https://github.com/rwxrob/dot.git
