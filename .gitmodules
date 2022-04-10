@@ -19,3 +19,6 @@
 [submodule "dot"]
 	path = dot
 	url = https://github.com/rwxrob/dot.git
+[submodule ".dotfiles"]
+	path = .dotfiles
+	url = https://github.com/ThePrimeagen/.dotfiles.git
