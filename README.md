@@ -21,7 +21,7 @@ Steps:
 
 
 # My Linux Setup
-Ubunut + Mate + i3 + Vim + Tmux.
+Ubuntu + Mate + i3 + Vim + tmux.
 ![.dotfiles](/images/DeskX.png)
 
 # iterm2 with dracula + tmux
