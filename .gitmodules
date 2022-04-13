@@ -22,3 +22,6 @@
 [submodule ".dotfiles"]
 	path = .dotfiles
 	url = https://github.com/ThePrimeagen/.dotfiles.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/ALT-F4-LLC/dotfiles.git
